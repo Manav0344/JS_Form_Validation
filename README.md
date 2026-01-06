@@ -133,5 +133,5 @@ If you want, I can also **create a ready-to-paste GitHub folder structure** with
 └── /screenshots
 
 
-<img width="1360" height="693" alt="screencapture-127-0-0-1-5500-index-html-2026-01-05-18_46_30" src="https://github.com/user-attachments/assets/f14ffbb1-3dd3-4175-80c7-4df88a1b8b2e" />
+<img width="1360" height="693" alt="screencapture-127-0-0-1-5500-index-html-2026-01-05-18_46_30" src="https://github.com/user-attachments/assets/da9b1ea9-7f8a-4d06-a3bd-d079caf57d6a" />
 
